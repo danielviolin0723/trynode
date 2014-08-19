@@ -1,0 +1,22 @@
+{
+  "name": "bytutorial",
+  "version": "0.0.0",
+  "description": "try Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danielviolin0723/trynode.git"
+  },
+  "keywords": [
+    "Node.js"
+  ],
+  "author": "danielviolin0723",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danielviolin0723/trynode/issues"
+  },
+  "homepage": "https://github.com/danielviolin0723/trynode"
+}
